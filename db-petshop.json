@@ -1,0 +1,101 @@
+{
+    "pets": [
+        {
+            "nome": "Billy",
+            "tipo": "Pug",
+            "idade": "2",
+            "raca": "Pug",
+            "peso": 2,
+            "tutor": "Doug",
+            "contato": "(81)998677622",
+            "vacinado": true,
+            "servicos": [
+                "banho",
+                "tosa",
+                "corte de unhas2021-03-29T12:02:02-03:00",
+                "corte de unhas2021-03-29T14:45:45-03:00"
+            ]
+        },
+        {
+            "nome": "Snoopy",
+            "tipo": "Beagle",
+            "idade": "2",
+            "raca": "Beagle",
+            "peso": 2.4,
+            "tutor": "Doug",
+            "contato": "(81)998677622",
+            "vacinado": true,
+            "servicos": [
+                "banho",
+                "tosa"
+            ]
+        },
+        {
+            "nome": "Scot",
+            "tipo": "Pug",
+            "idade": "2",
+            "raca": "vira-late",
+            "peso": 3,
+            "tutor": "Doug",
+            "contato": "(81)998677622",
+            "vacinado": false,
+            "servicos": [
+                "banho",
+                "tosa"
+            ]
+        },
+        {
+            "nome": "Ferro",
+            "tipo": "Beagle",
+            "idade": "2",
+            "raca": "Beagle",
+            "peso": 1.8,
+            "tutor": "Doug",
+            "contato": "(81)998677622",
+            "vacinado": false,
+            "servicos": [
+                "banho",
+                "tosa"
+            ]
+        },
+        {
+            "nome": "Aço",
+            "tipo": "Dalmata",
+            "idade": "2",
+            "raca": "Dalmata",
+            "peso": 2,
+            "tutor": "Doug",
+            "contato": "(81)998677622",
+            "vacinado": false,
+            "servicos": [
+                "banho",
+                "tosa"
+            ]
+        },
+        {
+            "nome": "Cavendish",
+            "tipo": "labrathor",
+            "idade": "1",
+            "raca": "labrathor",
+            "peso": 1.8,
+            "tutor": "Odin",
+            "contato": "(81)998677622",
+            "vacinado": false,
+            "servicos": []
+        },
+        {
+            "nome": "Thors",
+            "tipo": "Golden Retriver",
+            "idade": "2",
+            "raca": "Golden Retriver",
+            "peso": 1.8,
+            "tutor": "Odin",
+            "contato": "(81)998677622",
+            "vacinado": false,
+            "servicos": [
+                "banho",
+                "tosa"
+            ]
+        }
+    ]
+}
